@@ -8,3 +8,4 @@
   <ul><strong>Module 3</strong>
     <a href="https://siimoon14.github.io/Coursera/mod3_solution/">Solution</a>
   </ul>
+</li>
