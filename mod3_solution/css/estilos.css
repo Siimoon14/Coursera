@@ -1,0 +1,22 @@
+@media (max-width:576px){
+.navbar{
+    padding: 0px;
+}
+.navbar-brand{
+    padding: 13px;
+}
+.container{
+    width: 90%;
+}
+.navbar-toggler{
+    margin-right: 10px;
+}
+}
+
+
+
+@media (min-width:576px){
+    .navbar-toggler-icon, button{
+        display:none;
+    }
+}
