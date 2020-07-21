@@ -14,5 +14,10 @@
     <strong>Module 4</strong>
     <a href="https://siimoon14.github.io/Coursera/mod4_solution/">Solution</a>
   </li>
+  </li>
+  <li>
+    <strong>Module 5</strong>
+    <a href="https://siimoon14.github.io/Coursera/mod5_solution/">Solution</a>
+  </li>
 </ul>
 <a href="https://github.com/Siimoon14/Coursera/tree/master">Homepage</a>
